@@ -1,4 +1,3 @@
-# Welcome to My Website
 # Welcome to SVP IT Consulting
 
 We provide expert IT consulting services to modern businesses.
