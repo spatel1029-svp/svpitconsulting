@@ -9,6 +9,7 @@ We provide expert IT consulting services to modern businesses.
 - Enterprise Security
 - Mergers & Acquisitions Support
 - Infrastructure Management
+- Hardware Reseller
 
 ## Contact
 
